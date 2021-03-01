@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/josuedavi.github.io/static/css/main.5a0d8dec.chunk.css",
-    "main.js": "/josuedavi.github.io/static/js/main.2c4f66ac.chunk.js",
-    "main.js.map": "/josuedavi.github.io/static/js/main.2c4f66ac.chunk.js.map",
-    "runtime-main.js": "/josuedavi.github.io/static/js/runtime-main.3b113158.js",
-    "runtime-main.js.map": "/josuedavi.github.io/static/js/runtime-main.3b113158.js.map",
-    "static/js/2.a5cd6beb.chunk.js": "/josuedavi.github.io/static/js/2.a5cd6beb.chunk.js",
-    "static/js/2.a5cd6beb.chunk.js.map": "/josuedavi.github.io/static/js/2.a5cd6beb.chunk.js.map",
-    "static/js/3.bef9d4df.chunk.js": "/josuedavi.github.io/static/js/3.bef9d4df.chunk.js",
-    "static/js/3.bef9d4df.chunk.js.map": "/josuedavi.github.io/static/js/3.bef9d4df.chunk.js.map",
+    "main.js": "/josuedavi.github.io/static/js/main.75cf022b.chunk.js",
+    "main.js.map": "/josuedavi.github.io/static/js/main.75cf022b.chunk.js.map",
+    "runtime-main.js": "/josuedavi.github.io/static/js/runtime-main.23d24e36.js",
+    "runtime-main.js.map": "/josuedavi.github.io/static/js/runtime-main.23d24e36.js.map",
+    "static/js/2.2c4e122e.chunk.js": "/josuedavi.github.io/static/js/2.2c4e122e.chunk.js",
+    "static/js/2.2c4e122e.chunk.js.map": "/josuedavi.github.io/static/js/2.2c4e122e.chunk.js.map",
+    "static/js/3.2a30a64c.chunk.js": "/josuedavi.github.io/static/js/3.2a30a64c.chunk.js",
+    "static/js/3.2a30a64c.chunk.js.map": "/josuedavi.github.io/static/js/3.2a30a64c.chunk.js.map",
     "index.html": "/josuedavi.github.io/index.html",
     "static/css/main.5a0d8dec.chunk.css.map": "/josuedavi.github.io/static/css/main.5a0d8dec.chunk.css.map",
-    "static/js/2.a5cd6beb.chunk.js.LICENSE.txt": "/josuedavi.github.io/static/js/2.a5cd6beb.chunk.js.LICENSE.txt",
+    "static/js/2.2c4e122e.chunk.js.LICENSE.txt": "/josuedavi.github.io/static/js/2.2c4e122e.chunk.js.LICENSE.txt",
     "static/media/header.css": "/josuedavi.github.io/static/media/IMG_5844.93a071b6.jpg",
     "static/media/logo.6ce24c58.svg": "/josuedavi.github.io/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b113158.js",
-    "static/js/2.a5cd6beb.chunk.js",
+    "static/js/runtime-main.23d24e36.js",
+    "static/js/2.2c4e122e.chunk.js",
     "static/css/main.5a0d8dec.chunk.css",
-    "static/js/main.2c4f66ac.chunk.js"
+    "static/js/main.75cf022b.chunk.js"
   ]
 }
