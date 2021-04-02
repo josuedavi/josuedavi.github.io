@@ -1,0 +1,79 @@
+{
+  "files": {
+<<<<<<< HEAD
+    "main.css": "/josuedavi.github.io/static/css/main.5a0d8dec.chunk.css",
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "main.js": "/josuedavi.github.io/static/js/main.acda2bd7.chunk.js",
+    "main.js.map": "/josuedavi.github.io/static/js/main.acda2bd7.chunk.js.map",
+=======
+    "main.js": "/josuedavi.github.io/static/js/main.75cf022b.chunk.js",
+    "main.js.map": "/josuedavi.github.io/static/js/main.75cf022b.chunk.js.map",
+>>>>>>> parent of 6cc12e1b (Updates)
+    "runtime-main.js": "/josuedavi.github.io/static/js/runtime-main.23d24e36.js",
+    "runtime-main.js.map": "/josuedavi.github.io/static/js/runtime-main.23d24e36.js.map",
+    "static/js/2.2c4e122e.chunk.js": "/josuedavi.github.io/static/js/2.2c4e122e.chunk.js",
+    "static/js/2.2c4e122e.chunk.js.map": "/josuedavi.github.io/static/js/2.2c4e122e.chunk.js.map",
+    "static/js/3.2a30a64c.chunk.js": "/josuedavi.github.io/static/js/3.2a30a64c.chunk.js",
+    "static/js/3.2a30a64c.chunk.js.map": "/josuedavi.github.io/static/js/3.2a30a64c.chunk.js.map",
+    "index.html": "/josuedavi.github.io/index.html",
+    "static/css/main.5a0d8dec.chunk.css.map": "/josuedavi.github.io/static/css/main.5a0d8dec.chunk.css.map",
+    "static/js/2.2c4e122e.chunk.js.LICENSE.txt": "/josuedavi.github.io/static/js/2.2c4e122e.chunk.js.LICENSE.txt",
+<<<<<<< HEAD
+    "static/media/header.css": "/josuedavi.github.io/static/media/IMG_5844.93a071b6.jpg"
+=======
+    "main.js": "/josuedavi.github.io/static/js/main.2c4f66ac.chunk.js",
+    "main.js.map": "/josuedavi.github.io/static/js/main.2c4f66ac.chunk.js.map",
+    "runtime-main.js": "/josuedavi.github.io/static/js/runtime-main.3b113158.js",
+    "runtime-main.js.map": "/josuedavi.github.io/static/js/runtime-main.3b113158.js.map",
+    "static/js/2.a5cd6beb.chunk.js": "/josuedavi.github.io/static/js/2.a5cd6beb.chunk.js",
+    "static/js/2.a5cd6beb.chunk.js.map": "/josuedavi.github.io/static/js/2.a5cd6beb.chunk.js.map",
+    "static/js/3.bef9d4df.chunk.js": "/josuedavi.github.io/static/js/3.bef9d4df.chunk.js",
+    "static/js/3.bef9d4df.chunk.js.map": "/josuedavi.github.io/static/js/3.bef9d4df.chunk.js.map",
+    "index.html": "/josuedavi.github.io/index.html",
+    "static/css/main.5a0d8dec.chunk.css.map": "/josuedavi.github.io/static/css/main.5a0d8dec.chunk.css.map",
+    "static/js/2.a5cd6beb.chunk.js.LICENSE.txt": "/josuedavi.github.io/static/js/2.a5cd6beb.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/josuedavi.github.io/static/media/IMG_5844.93a071b6.jpg",
+    "static/media/logo.6ce24c58.svg": "/josuedavi.github.io/static/media/logo.6ce24c58.svg"
+>>>>>>> parent of 7507bdb5 (Updates)
+=======
+    "static/media/header.css": "/josuedavi.github.io/static/media/IMG_5844.93a071b6.jpg",
+    "static/media/logo.6ce24c58.svg": "/josuedavi.github.io/static/media/logo.6ce24c58.svg"
+>>>>>>> parent of 6cc12e1b (Updates)
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b113158.js",
+    "static/js/2.a5cd6beb.chunk.js",
+    "static/css/main.5a0d8dec.chunk.css",
+<<<<<<< HEAD
+<<<<<<< HEAD
+    "static/js/main.acda2bd7.chunk.js"
+=======
+    "static/js/main.2c4f66ac.chunk.js"
+=======
+    "main.css": "/josuedavi.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/josuedavi.github.io/static/js/main.8e66dc6a.chunk.js",
+    "main.js.map": "/josuedavi.github.io/static/js/main.8e66dc6a.chunk.js.map",
+    "runtime-main.js": "/josuedavi.github.io/static/js/runtime-main.95617ba2.js",
+    "runtime-main.js.map": "/josuedavi.github.io/static/js/runtime-main.95617ba2.js.map",
+    "static/js/2.01118847.chunk.js": "/josuedavi.github.io/static/js/2.01118847.chunk.js",
+    "static/js/2.01118847.chunk.js.map": "/josuedavi.github.io/static/js/2.01118847.chunk.js.map",
+    "static/js/3.37c64282.chunk.js": "/josuedavi.github.io/static/js/3.37c64282.chunk.js",
+    "static/js/3.37c64282.chunk.js.map": "/josuedavi.github.io/static/js/3.37c64282.chunk.js.map",
+    "index.html": "/josuedavi.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/josuedavi.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.01118847.chunk.js.LICENSE.txt": "/josuedavi.github.io/static/js/2.01118847.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/josuedavi.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95617ba2.js",
+    "static/js/2.01118847.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.8e66dc6a.chunk.js"
+>>>>>>> 2b80b355... Updates
+>>>>>>> parent of 7507bdb5 (Updates)
+=======
+    "static/js/main.75cf022b.chunk.js"
+>>>>>>> parent of 6cc12e1b (Updates)
+  ]
+}
